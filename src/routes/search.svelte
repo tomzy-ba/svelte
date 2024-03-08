@@ -1,7 +1,7 @@
 <script>
-    let name = "tom";
+
 </script>
 
 <html lang="en">
-    <h1>BRUH</h1>
+    <h1>Hello</h1>
 </html>
